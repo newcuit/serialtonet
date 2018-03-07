@@ -1,0 +1,1 @@
+pyinstaller -F -i speed_test.ico serialToNet.py
